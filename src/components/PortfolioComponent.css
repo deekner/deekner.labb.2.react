@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.Portfolio-container{
+  font-family: "montserrat", sans-serif;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(40, 39, 46);
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  color: rgb(55, 55, 210);
+}
+
+h3 {
+  color: rgb(55, 55, 210);
+}
+
+p {
+  color: white;
+}
+
+.repo-list {
+  margin-top: 2rem;
+  padding: 2rem;
+  text-align: center;
+  line-height: 40px;
+}
+
+.button-repo{
+  padding: 10px 20px;
+  background-color: rgb(55, 55, 210);
+  color: aliceblue;
+  border-radius: 6px;
+  text-decoration: none;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+
+
+
