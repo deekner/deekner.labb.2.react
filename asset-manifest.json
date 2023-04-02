@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deekner.labb.2.react/static/css/main.e16a32c6.css",
+    "main.js": "/deekner.labb.2.react/static/js/main.f9b2c869.js",
+    "static/js/787.199113f3.chunk.js": "/deekner.labb.2.react/static/js/787.199113f3.chunk.js",
+    "index.html": "/deekner.labb.2.react/index.html",
+    "main.e16a32c6.css.map": "/deekner.labb.2.react/static/css/main.e16a32c6.css.map",
+    "main.f9b2c869.js.map": "/deekner.labb.2.react/static/js/main.f9b2c869.js.map",
+    "787.199113f3.chunk.js.map": "/deekner.labb.2.react/static/js/787.199113f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16a32c6.css",
+    "static/js/main.f9b2c869.js"
+  ]
+}
